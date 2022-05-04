@@ -1,4 +1,4 @@
-The run_analysis.R script gets and cleans data as follows.
+The run_analysis.R script gets and cleans data as follows:
 1. **Upload the dataset **
 - Dataset is uploaded from the folder called UCI HAR Dataset
 2. **Assign each data to variables**
